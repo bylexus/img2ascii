@@ -1,0 +1,11 @@
+{
+    "name": "bylexus/img2ascii",
+    "version":"1.0.0",
+    "require": {
+        "php": ">= 5.3",
+        "ext-gd": "*"
+    },
+    "autoload": {
+        "psr-4": {"Img2Ascii\\": "src/"}
+    }
+}
