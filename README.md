@@ -45,3 +45,6 @@ $processor
     ->asciify(10)
     ->colorResult('#')                      // In color mode, only a single char is used
     ->writeFile('filename.html','<br />');  // define line ending
+```
+
+... To be continued, work in progress ...

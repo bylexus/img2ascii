@@ -1,4 +1,10 @@
 <?php
+/**
+ * The black / white or "ascii art" output processor.
+ * Transforms the input color values into ascii art characters.
+ *
+ * (c) 2016 Alex Schenkel
+ */
 namespace Img2Ascii;
 
 class BlackWhiteResult extends Result {

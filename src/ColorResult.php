@@ -1,4 +1,11 @@
 <?php
+/**
+ * Transforms an ascii result to a colored HTML representation. Each
+ * color value is represented by a single char, but HTML-styled to
+ * display the correct color.
+ *
+ * (c) 2016 Alex Schenkel
+ */
 namespace Img2Ascii;
 
 class ColorResult extends Result {

@@ -1,4 +1,12 @@
 <?php
+/**
+ * The basic Result class for the Img2Ascii processor.
+ *
+ * It defines common output functions for the implementing output
+ * transformers.
+ *
+ * (c) 2016 Alex Schenkel
+ */
 namespace Img2Ascii;
 
 class Result {
